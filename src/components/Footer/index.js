@@ -1,29 +1,36 @@
-/* import React, { Component } from 'react';
-export default class Footer extends Component {
-  render() {
-    let resumeData = this.props.resumeData;
-    return (
-      <footer>
-      <div className="row">
-        <div className="twelve columns">
-          <ul className="social-links">
-            {
-              resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
-                return(
-                  <li>
-                    <a href={item.url}>
-                    <i className={item.className} />
-                    </a>
-                  </li>
-                )
-              })
-            }
-          </ul>
-          
-        </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
-      </div>
-    </footer>
-    );
-  }
-} */
+import React from "react";
+
+function Footer() {
+	return (
+		<footer className="footer">
+			<div>
+				<a
+					href="https://github.com/Chrispruiz"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					{/* <img
+						src={require("../../assets/logos/github-logo.png")}
+						alt="Github"
+						className="logo"
+					></img> */}
+				</a>
+			</div>
+			<div>
+				<a
+					href="https://www.linkedin.com/in/chrispruiz/"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					{/* <img
+						src={require("../../assets/logos/linkedin-logo.png")}
+						alt="LinkedIn"
+						className="logo"
+					></img> */}
+				</a>
+			</div>
+		</footer>
+	);
+}
+
+export default Footer;

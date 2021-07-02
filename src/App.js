@@ -1,24 +1,27 @@
+import "./App.css";
 import React, { useState } from 'react';
 import Nav from './components/Nav';
-import Footer from "./components/Footer";
 import About from './components/About';
 import Portfolio from './components/Portfolio';
-import Resume from "./components/Resume";
 import ContactForm from './components/Contact';
+import Footer from "./components/Footer";
 
 function App() {
 	const [currentTab, setCurrentTab] = useState("about");
 
+	// This function checks to see which tab is selected and then generates the appropriate tab.
 	const renderTab = () => {
 		switch (currentTab) {
 			case "about":
 				return <About />;
 			case "portfolio":
 				return <Portfolio />;
-      case "resume":
-        return <Resume />;
 			case "contact":
 				return <ContactForm />;
+			/* case "resume":
+				return <Resume />; */
+			default:
+				return null;
 		}
 	};
 

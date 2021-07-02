@@ -10,9 +10,9 @@ function Nav(props) {
     setContactSelected,
   } = props;
 
-  useEffect(() => {
+ /*  useEffect(() => {
     document.title = capitalizeFirstLetter(currentCategory.name);
-  }, [currentCategory]);
+  }, [currentCategory]); */
 
   return (
     <header className="flex-row px-1">
