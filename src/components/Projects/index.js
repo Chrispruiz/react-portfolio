@@ -11,10 +11,10 @@ function Projects(props) {
 	const gitLink = currentProject.github;
 
 	return (
-		<Card style={{ width: "18rem" }}>
+		<Card style={{ width: '18rem' }}>
 			<Card.Img
 				variant="top"
-				src={require(`../../assets/images/${image}`)}
+				src={require(`../../assets/images/${image}`)?.default}
 				className="card-image"
 			/>
 			<div className="center">
