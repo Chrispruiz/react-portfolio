@@ -40,6 +40,10 @@ body {
 
 }
 
+.padding {
+	padding: 50px 125px;
+}
+
 h1,
 h2,
 h3,
