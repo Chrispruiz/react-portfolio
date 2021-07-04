@@ -50,12 +50,13 @@ function Portfolio() {
 				'This is a database that stores information on employees, roles, salaries, and departments. Users can view, add, update, and delete roles, departments, and employees.',
 			image: 'EmployeeTracker.gif',
 			github: 'https://github.com/Chrispruiz/SQL-Employee-Tracker',
+      deployed: 'https://github.com/Chrispruiz/SQL-Employee-Tracker'
 		},
 	];
 
 	return (
 		<section>
-			<div className="center">
+			<div className="justify-content-end">
 				<h1 className="page-header">My Portfolio</h1>
 			</div>
 			<div>

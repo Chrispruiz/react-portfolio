@@ -5,7 +5,7 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #0cd6ce;
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
@@ -34,7 +34,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background: #365973;
   color: var(--light);
   font-family: 'Poiret One', cursive;
 
@@ -100,7 +100,7 @@ header {
 }
 
 header a {
-  color: var(--light);
+  color: var(--secondary);
 }
 
 button {
@@ -125,7 +125,7 @@ button[disabled] {
 }
 
 img {
-  max-width: 100%;
+  max-width: 115%;
 }
 
 span[role="img"] {
