@@ -9,11 +9,11 @@ function Footer() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					{/* <img
-						src={require("../../assets/logos/github-logo.png")}
+					<img
+						src={require("../../assets/images/GitHub-logo.png")?.default}
 						alt="Github"
 						className="logo"
-					></img> */}
+					></img>
 				</a>
 			</div>
 			<div>
