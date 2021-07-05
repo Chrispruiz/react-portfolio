@@ -3,13 +3,13 @@ import React from "react";
 function Resume() {
 	return (
 		<section>
+            <div className="bottom-spacing">
+				<a href={require("../../assets/resume/Resume.doc")} download>
+					<h4>My Resume</h4>
+				</a>
+			</div>
 			<div className="center">
 				<h1 className="page-header">Technical Skills</h1>
-			</div>
-			<div className="bottom-spacing">
-				{/* <a href={require("../../assets/files/Owais' Resume.pdf")} download>
-					<h4>Download my Resume</h4>
-				</a> */}
 			</div>
             <br></br>
 			<div>
