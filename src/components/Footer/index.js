@@ -5,28 +5,22 @@ function Footer() {
 		<footer className="footer">
 			<div>
 				<a
-					href="https://github.com/Chrispruiz"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
+					href="https://github.com/Chrispruiz">
 					<img
 						src={require("../../assets/images/GitHub-logo.png")?.default}
 						alt="Github"
-						className="logo"
+                        className="githubLogo"
 					></img>
 				</a>
 			</div>
 			<div>
 				<a
-					href="https://www.linkedin.com/in/chrispruiz/"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					{/* <img
-						src={require("../../assets/logos/linkedin-logo.png")}
+					href="https://www.linkedin.com/in/chrispruiz/">
+					<img
+						src={require("../../assets/images/Linkedin-logo.png")?.default}
 						alt="LinkedIn"
-						className="logo"
-					></img> */}
+                        className="linkedInLogo"
+					></img>
 				</a>
 			</div>
 		</footer>
