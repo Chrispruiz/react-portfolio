@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.10f43f29.chunk.css",
+    "main.js": "/photo-port/static/js/main.9e2e3a7a.chunk.js",
+    "main.js.map": "/photo-port/static/js/main.9e2e3a7a.chunk.js.map",
+    "runtime-main.js": "/photo-port/static/js/runtime-main.edf0ded2.js",
+    "runtime-main.js.map": "/photo-port/static/js/runtime-main.edf0ded2.js.map",
+    "static/js/2.a0ce5c94.chunk.js": "/photo-port/static/js/2.a0ce5c94.chunk.js",
+    "static/js/2.a0ce5c94.chunk.js.map": "/photo-port/static/js/2.a0ce5c94.chunk.js.map",
+    "index.html": "/photo-port/index.html",
+    "static/css/main.10f43f29.chunk.css.map": "/photo-port/static/css/main.10f43f29.chunk.css.map",
+    "static/js/2.a0ce5c94.chunk.js.LICENSE.txt": "/photo-port/static/js/2.a0ce5c94.chunk.js.LICENSE.txt",
+    "static/media/Budget-tracker.png": "/photo-port/static/media/Budget-tracker.035b5369.png",
+    "static/media/EmployeeTracker.gif": "/photo-port/static/media/EmployeeTracker.8ca4c425.gif",
+    "static/media/GitHub-logo.png": "/photo-port/static/media/GitHub-logo.a7cb412d.png",
+    "static/media/Linkedin-logo.png": "/photo-port/static/media/Linkedin-logo.d1088013.png",
+    "static/media/Note.gif": "/photo-port/static/media/Note.09abf559.gif",
+    "static/media/Resume.doc": "/photo-port/static/media/Resume.4269ba64.doc",
+    "static/media/Tech-blog.png": "/photo-port/static/media/Tech-blog.fc1f2713.png",
+    "static/media/Travel-blogger.png": "/photo-port/static/media/Travel-blogger.45e84c66.png",
+    "static/media/brewing.png": "/photo-port/static/media/brewing.5bd96df6.png",
+    "static/media/cover-image.b9d39379.jpg": "/photo-port/static/media/cover-image.b9d39379.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edf0ded2.js",
+    "static/js/2.a0ce5c94.chunk.js",
+    "static/css/main.10f43f29.chunk.css",
+    "static/js/main.9e2e3a7a.chunk.js"
+  ]
+}
