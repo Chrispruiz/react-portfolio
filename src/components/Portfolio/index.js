@@ -13,12 +13,12 @@ function Portfolio() {
 			deployed: 'https://serene-tor-80949.herokuapp.com/',
 		},
 		{
-			name: 'Tech Blog',
+			name: 'REX - Rescue Express',
 			description:
-				'Tech-Blog is a blogging website built using Model View Controller (MVC) where users can create an account to be to post blogs and comment on other posts. The application uses Handlebars.js, Sequelize, Express, Bulma for styling, and dotenv.',
-			image: 'Tech-blog.png',
-			github: 'https://github.com/Chrispruiz/tech-blog',
-			deployed: 'https://powerful-lake-33458.herokuapp.com/',
+				'Full-stack web application that lists pets for adoption based on specified criteria. Users can create an account and pay for their rehoming fees.',
+			image: 'REX.png',
+			github: 'https://github.com/Chrispruiz/REX-Rescue_Express.git',
+			deployed: 'https://still-plains-06700.herokuapp.com/',
 		},
 		{
 			name: 'A Storm is Brewing',
