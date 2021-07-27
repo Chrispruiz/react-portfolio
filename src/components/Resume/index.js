@@ -4,7 +4,7 @@ function Resume() {
 	return (
 		<section>
             <div className="bottom-spacing">
-				<a href={require("../../assets/resume/Resume.doc")} download>
+				<a href={require("../assets/resume/Resume.docx")} download>
 					<h4>My Resume</h4>
 				</a>
 			</div>
