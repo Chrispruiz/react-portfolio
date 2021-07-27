@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.8cc45874.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.9d22ab36.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.9d22ab36.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.1114612e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1114612e.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.872b2f22.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.872b2f22.js.map",
     "static/js/2.a0ce5c94.chunk.js": "/react-portfolio/static/js/2.a0ce5c94.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/Linkedin-logo.png": "/react-portfolio/static/media/Linkedin-logo.d1088013.png",
     "static/media/Note.gif": "/react-portfolio/static/media/Note.09abf559.gif",
     "static/media/REX.png": "/react-portfolio/static/media/REX.27119fa0.png",
-    "static/media/Resume.doc": "/react-portfolio/static/media/Resume.4269ba64.doc",
+    "static/media/Resume.doc": "/react-portfolio/static/media/Resume.8773404b.doc",
     "static/media/Tech-blog.png": "/react-portfolio/static/media/Tech-blog.fc1f2713.png",
     "static/media/Travel-blogger.png": "/react-portfolio/static/media/Travel-blogger.45e84c66.png",
     "static/media/brewing.png": "/react-portfolio/static/media/brewing.5bd96df6.png",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.872b2f22.js",
     "static/js/2.a0ce5c94.chunk.js",
     "static/css/main.8cc45874.chunk.css",
-    "static/js/main.9d22ab36.chunk.js"
+    "static/js/main.1114612e.chunk.js"
   ]
 }
